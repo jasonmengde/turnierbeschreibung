@@ -5,7 +5,7 @@ Startdatum und Uhrzeit: 28.01.2025 - 18:15
 Checkinzeitraum: 28.01.2025 - 17:00 bis 17:45 über den externen Link
 
 Turnierformat:
-Zu Beginn treten alle Spieler in einem K.o.-System in zwei aufgeteilten Brackets gegeneinander an, wobei jeder Spieler nur ein einziges verlorenes Match hat, bevor er aus dem Turnier ausscheidet. Jede Hälfte des Turnierbaums wird dann in den folgenden Runden weitergeführt, bis jeweils ein Spieler aus dem linken und ein Spieler aus dem rechten Bracket das Finale erreicht. Der Turnierbaum wird um 18:00 freigegeben.
+Zu Beginn treten alle Spieler in einem K.o.-System gegeneinander an. Der Turnierbaum wird automatisch erstellt.
 
 Wie und was wird gespielt?
 Die Anzahl des „Best Of Legs“ wird basierend der Teilnehmerzahlen festgelegt und mitgeteilt. Der „Heimspieler“ ist dazu verpflichtet Kontakt zum Gegenspieler aufzunehmen, um das Match zu spielen. Sollte der „Gastspieler“ keine Einladung erhalten, so versucht er Kontakt aufzunehmen. Sollte in beiden Richtungen nichts passieren, so nehmt bitte Kontakt zum Turnierveranstalter auf. Es ist immer auszubullen!
