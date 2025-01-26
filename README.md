@@ -1,4 +1,4 @@
-Der „Open Preliminary Cup #1 | Below 45 AVG“ ist ein Turnier, das sich speziell an Spieler mit einem Durchschnittswert (AVG) unter 45 richtet. Das Lesen der Regeln ist verpflichtend! Die Zeiten sind immer MESZ.
+Der „Open Preliminary Cup #1 | Below 45 AVG“ ist ein Turnier, das sich speziell an Spieler mit einem Durchschnittswert (AVG) unter 45 richtet. Das Lesen der Regeln ist verpflichtend! Die Zeiten sind immer MESZ. WICHTIG: Ihr müsst euch auf der Webseite einen Account anlegen.
 
 Startdatum und Uhrzeit: 28.01.2025 - 18:15
 
