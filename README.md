@@ -1,11 +1,12 @@
-Der „Open Preliminary Cup #1 | Below 45 AVG“ ist ein Turnier, das sich speziell an Spieler mit einem Durchschnittswert (AVG) unter 45 richtet. Das Lesen der Regeln ist verpflichtend! Die Zeiten sind immer MESZ. WICHTIG: Ihr müsst euch auf der Webseite einen Account anlegen.
+Der „Open Preliminary Cup #1 | Below 45 AVG“ ist ein Turnier, das sich speziell an Spieler mit einem Durchschnittswert (AVG) unter 45 richtet. Das Lesen der Regeln ist verpflichtend! Die Zeiten sind immer MESZ.
+WICHTIG: Ihr müsst euch auf der Webseite einen Account anlegen.
 
-Startdatum und Uhrzeit: 28.01.2025 - 18:15
+Startdatum und Uhrzeit: 09.02.2025 - 18:15
 
-Checkinzeitraum: 28.01.2025 - 17:00 bis 17:45 über den externen Link
+Checkinzeitraum: 09.02.2025 - Ab 17:15 Uhr über den externen Link
 
 Turnierformat:
-Zu Beginn treten alle Spieler in einem K.o.-System gegeneinander an. Der Turnierbaum wird automatisch erstellt.
+Zu Beginn treten alle Spieler in einem K.o.-System gegeneinander an. Der Turnierbaum wird automatisch erstellt und um 18:10 freigegeben.
 
 Wie und was wird gespielt?
 Die Anzahl des „Best Of Legs“ wird basierend der Teilnehmerzahlen festgelegt und mitgeteilt. Der „Heimspieler“ ist dazu verpflichtet Kontakt zum Gegenspieler aufzunehmen, um das Match zu spielen. Sollte der „Gastspieler“ keine Einladung erhalten, so versucht er Kontakt aufzunehmen. Sollte in beiden Richtungen nichts passieren, so nehmt bitte Kontakt zum Turnierveranstalter auf. Es ist immer auszubullen!
